@@ -1,6 +1,6 @@
 Flask 
 sklearn
-numpy==1.20.3
+numpy
 pandas
 matplotlib
 seaborn
